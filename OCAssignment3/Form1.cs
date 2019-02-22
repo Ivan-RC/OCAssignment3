@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
+//This is my own work
+//Ivan Rivas
+
+
 namespace OCAssignment3
 {
     public partial class Form1 : Form
